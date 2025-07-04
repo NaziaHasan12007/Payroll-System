@@ -5,3 +5,5 @@ of workers:
 3. CommissionEmployee – paid a percentage of their sales.
 4. BasePlusCommissionEmployee – paid a base salary plus a percentage of their sales. For the current pay
 period, their base salary must be increased by 10% as a reward.
+
+By this system one can see the worker's details and their earnings.
